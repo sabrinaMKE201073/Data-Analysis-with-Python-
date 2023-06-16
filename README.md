@@ -1,7 +1,5 @@
 # Data-Analysis-with-Python-
-Data Analysis with Python Lesson
 
-SYLLABUS
 Module 1 - Introduction
 - Introduction to Data Analysis with Python
 - The Problem
